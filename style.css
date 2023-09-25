@@ -2,7 +2,7 @@ body {
     background: rgb(146, 2, 2);
     color: rgb(255, 255, 255);
     padding: 45px;
-    font-family: Arial;
+    font-family: 'Times New Roman', Times, serif;
 }
 #all-contents {
   max-width: 800px;
@@ -64,7 +64,7 @@ h2, h3 {
 }
 /* portfolio styles */
 .content h1 {
-    color: black;
+    color: rgb(211, 20, 20);
 }
 
 #portfolio {
@@ -80,10 +80,11 @@ h2, h3 {
 }
 
 #portfolio li:hover {
-    background: #eee;
+    background: #3d1f92;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YWoaUDhZWpYHB5T4vPpElTpMX7_YJxB44rfRq6EqIwi7t323_uMFUpBguaHS3jyRBSU:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/1024px-Superman_shield.svg.png&usqp=CAU);
 }
 
 #portfolio a {
     text-decoration: none;
-    color: #454545;
+    color: #000000;
 }
