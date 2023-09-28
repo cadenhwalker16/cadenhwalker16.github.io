@@ -49,6 +49,9 @@ main {
 .sidebar-img {
     width: 200px;
 }
+#Superman{
+    height: 200px;
+}
 .content {
     flex: 1;
     padding: 15px;
