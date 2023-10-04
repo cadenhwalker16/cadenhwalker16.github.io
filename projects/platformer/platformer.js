@@ -44,18 +44,19 @@ createPlatform(500, 650, 200, 20);
 createPlatform(10, 650, 150, 15)
 createPlatform(350, 550, 200, 20)
 createPlatform(650, 450, 300, 20)
-createPlatform(550, 330, 200, 20)
+createPlatform(550, 350, 200, 20)
 createPlatform(150, 195, 350, 20)
 createPlatform(1000, 550, 200, 20)
-createPlatform(1200, 350, 200, 20)
+createPlatform(1200, 400, 200, 20)
 createCollectable("steve", 1200, 170, 6, 0.7)
 createCollectable("steve", 550, 170, 6, 0.7)
 createCollectable("steve", 1000, 170, 6, 0.7)
-createCannon("left", 350, 1200);
-createCannon("top", 700, 1200);
-createCannon("right", 300, 1200);
-createCannon("bottom", 350, 1200);
-createCannon("left", 350, 1200);
+createCannon("left", 350, 1300, 10, 10);
+createCannon("top", 700, 1300, 10, 10);
+createCannon("right", 250, 1300, 10, 10);
+createCannon("bottom", 350, 1300, 10, 10);
+createCannon("left", 350, 1300, 10, 10);
+createPlatform(1200, 675, 200, 20)
 
 
     /////////////////////////////////////////////////
